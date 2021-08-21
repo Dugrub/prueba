@@ -1,0 +1,19 @@
+body{
+    font-family: 'Orbitron', sans-serif;
+}
+
+.footer{
+    text-align: center;
+    font-size: 20px;
+    background: #ffffff;
+    color: #fff;
+    }
+
+.logo{
+    width: 250px;
+    }
+
+.bg-Azul {
+    margin-top: 25px;
+    background-color: #03018a;
+}
